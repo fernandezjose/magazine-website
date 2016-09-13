@@ -1,6 +1,6 @@
 # Magazine Website
 
-Coming soon...
+Coming soon!!!
 
 # Getting Started
 
